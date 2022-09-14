@@ -20,6 +20,7 @@ for(let x=0;x<heights.length;x++){
     }
 }
 console.log(area_array);
+
 for(let x in area_array){
     
     if ( area_array[x] > max_area){
